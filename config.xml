@@ -1,6 +1,6 @@
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.cplus.nalo" versionCode = "23" version="1.0.0">
-  <name>Easy deposit</name>
-  <description>financial application for money transfers</description>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.kyc.nalo" versionCode = "23" version="1.0.0">
+  <name>MyCandidate</name>
+  <description>Know your future MP.</description>
   <author href="" email="ontariokwasi@gmail.com">Akomeng Gideon</author>
   <content src="index.html"/>
   <preference name="permissions" value="none"/>
